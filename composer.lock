@@ -64,7 +64,7 @@
             "require": {
                 "anime-db/ani-db-browser-bundle": ">=1.0.0",
                 "anime-db/catalog-bundle": ">=0.4.17",
-                "php": ">=5.4.0"
+                "php": ">=5.6.21"
             },
             "type": "anime-db-plugin",
             "autoload": {
@@ -147,7 +147,7 @@
                 "anime-db/api-client-bundle": "0.1.*",
                 "anime-db/cache-time-keeper-bundle": "1.0.*",
                 "patchwork/utf8": "1.3.*",
-                "php": ">=5.4.0"
+                "php": ">=5.6.21"
             },
             "suggest": {
                 "ext-com_dotnet": "Allows to switch between drives in Windows"
@@ -200,7 +200,7 @@
                 "shasum": ""
             },
             "require": {
-                "php": ">=5.4.0"
+                "php": ">=5.6.21"
             },
             "require-dev": {
                 "anime-db/shmop": "1.0.*",
@@ -250,7 +250,7 @@
                 "anime-db/app-bundle": ">=0.4.0,<0.4.x-dev",
                 "ext-mbstring": "*",
                 "knplabs/knp-menu-bundle": "1.1.*",
-                "php": ">=5.4.0"
+                "php": ">=5.6.21"
             },
             "suggest": {
                 "anime-db/ani-db-filler-bundle": "Allows import data from a site AniDB.net",
@@ -346,7 +346,7 @@
             "require": {
                 "anime-db/catalog-bundle": ">=0.4.17",
                 "anime-db/shikimori-browser-bundle": "1.0.*",
-                "php": ">=5.4.0"
+                "php": ">=5.6.21"
             },
             "type": "anime-db-plugin",
             "autoload": {
@@ -379,7 +379,7 @@
             "require": {
                 "anime-db/catalog-bundle": ">=0.4.17",
                 "ext-tidy": "*",
-                "php": ">=5.4.0"
+                "php": ">=5.6.21"
             },
             "type": "anime-db-plugin",
             "extra": {
@@ -1458,7 +1458,7 @@
             },
             "require": {
                 "doctrine/dbal": "~2.2",
-                "php": ">=5.4.0",
+                "php": ">=5.6.21",
                 "symfony/console": "~2.3",
                 "symfony/yaml": "~2.3"
             },
@@ -3289,7 +3289,7 @@
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {
-        "php": ">=5.4.0",
+        "php": ">=5.6.21",
         "ext-pdo_sqlite": "*",
         "ext-zlib": "*",
         "ext-json": "*",
