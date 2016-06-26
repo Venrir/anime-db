@@ -24,7 +24,7 @@
             "require": {
                 "ext-zlib": "*",
                 "guzzle/guzzle": "3.9.*",
-                "php": ">=5.4",
+                "php": ">=5.6.21",
                 "symfony/dom-crawler": ">=2.3.17"
             },
             "require-dev": {
@@ -986,7 +986,7 @@
             },
             "require": {
                 "doctrine/common": "~2.4",
-                "php": ">=5.4"
+                "php": ">=5.6.21"
             },
             "require-dev": {
                 "phpunit/phpunit": "4.*",
@@ -1530,7 +1530,7 @@
                 "doctrine/dbal": ">=2.5-dev,<2.7-dev",
                 "doctrine/instantiator": "~1.0.1",
                 "ext-pdo": "*",
-                "php": ">=5.4",
+                "php": ">=5.6.21",
                 "symfony/console": "~2.5|~3.0"
             },
             "require-dev": {
